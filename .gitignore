@@ -1,0 +1,14 @@
+# Build output
+build/
+
+# Local tools (WiX binaries, ~120 MB - do not upload)
+tools/
+
+# Logs and editor folders
+*.log
+.vscode/
+.idea/
+
+# Windows junk
+Thumbs.db
+desktop.ini
